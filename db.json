@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "author": "louis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 30,
+      "id": "1"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "Moana",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 117,
+      "id": "3"
+    },
+    {
+      "pseudo": "Karim",
+      "likes": 24,
+      "id": "4"
+    },
+    {
+      "title": "Teste Post",
+      "author": "Peter",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "likes": 50,
+      "id": "P6ABCxQ"
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Moana",
+      "likes": 21,
+      "id": 1
+    },
+    {
+      "pseudo": "Louis",
+      "likes": 11,
+      "id": 2
+    },
+    {
+      "pseudo": "Mathieu",
+      "likes": 1,
+      "id": 3
+    },
+    {
+      "pseudo": "Karim",
+      "likes": 2,
+      "id": 4
+    }
+  ]
+}
