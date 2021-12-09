@@ -23,6 +23,6 @@ pour lancer le serveur json
 
 bon code a tous 
 <p align="center>
-<img src="screencapture.png" width="350" title="screenpage"></p>
+<img src="screencapture.png" width="350" title="screenpage" ></p>
 
 
